@@ -1,8 +1,3 @@
-##### TODO #####
-# Temp User Profile Handeling
-# Fix Free Space After
-
-
 ####################################
 ########## Config Values ###########
 ####################################
